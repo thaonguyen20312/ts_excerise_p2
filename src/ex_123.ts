@@ -10,6 +10,3 @@ for(let i = 0; i < arr. length; i++){
 }
 return index;
 }
-let arr: number[] = [5,3,2,9];
-let result: number = findIndex(arr);
-console.log(result);
